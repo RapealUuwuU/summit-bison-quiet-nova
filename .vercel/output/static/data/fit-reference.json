@@ -1,0 +1,11 @@
+{
+  "method": "Aki 1965 maximum likelihood",
+  "dm": 0.1,
+  "catalog": {
+    "mc": 4.5,
+    "n": 22925,
+    "b": 1.226,
+    "a": 9.879,
+    "mean": 4.804
+  }
+}

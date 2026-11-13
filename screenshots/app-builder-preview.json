@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "震象",
+      "hasCanvas": false,
+      "bodyTextLen": 990,
+      "bodyTextHash": "923d5452bffd94c2a33929f1c50512f5ff68c42c032deca6c69e722b10cdb025",
+      "bodyTextPrefix": "震象 西太平洋目錄推演 22,925 筆 · M≥4.5 · 2000-01-01 至 2026-11-09 · USGS Ea",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "震象",
+      "hasCanvas": false,
+      "bodyTextLen": 1118,
+      "bodyTextHash": "7721982afe8fd3eaf19bfedfdd98c9ca3f5b9ed309d14ba14e5abf42831f6d07",
+      "bodyTextPrefix": "震象 西太平洋目錄推演 22,925 筆 · M≥4.5 · 2000-01-01 至 2026-11-09 · USGS Ea",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
